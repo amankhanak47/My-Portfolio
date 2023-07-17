@@ -1,0 +1,44 @@
+.about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.about-img-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+
+.about-img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.about-text {
+  max-width: 600px;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.about-text h2 {
+  font-family: "Arial", sans-serif;
+  font-size: 36px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.about-text p {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 400;
+}

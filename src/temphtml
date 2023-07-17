@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My-Projects</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .all-blocks {
+            display: flex;
+            /* flex-direction: column; */
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .block {
+            width: 500px;
+            max-width: 90vw;
+
+        }
+    </style>
+</head>
+
+<body>
+    <h1>MY PROJECTS (MOHD AMAN KHAN)</h1>
+    <br>
+    <hr>
+    <div class="all-blocks">
+
+        <div class="block">
+
+            <h2>Using React,Node-js, Express-js, Mongo-db,etc</h2>
+            <ul>
+                <h4>
+                    <li><a href="https://scheduler12.netlify.app/">Scheduler</a></li>
+                    </h3>
+                    <h4>
+                        <li><a href="https://explorear.netlify.app/">ExploreAR</a></li>
+                        </h3>
+                <h4>
+                    <li><a href="https://chat-editor.netlify.app/">Chat-editor</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="https://inoteapp.netlify.app/">InoteApp</a></li>
+                        </h3>
+                        <h4>
+                            <li><a href="https://duplicate-google.netlify.app/">Google-Clone</a></li>
+                            </h3>
+                            <h4>
+                                <li><a href="https://duplicate-netflix.netlify.app/">Netflix-Clone</a></li>
+                                </h3>
+                                <h4>
+                                    <li><a href="https://duplicate-amazon.netlify.app/">Amazon-Clone</a></li>
+                                    </h3>
+
+            </ul>
+
+
+        </div>
+        <div class="block">
+
+            <h2>only with pure html, css, javascript</h2>
+            <ul>
+                <h4>
+                    <li><a href="http://snake-game-ak.netlify.app/">Snake-Game</a></li>
+                    </h3>
+                    <h4>
+                        <li><a href="https://tic-tac-tao-ak.netlify.app/">Tic-Tac-Tao</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://spotify-clone-ak.netlify.app/">Spotify-Clone</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://to-do-list-ak.netlify.app/">T0-do-List</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://web-dinosour-game-ak.netlify.app/">Web-Dinosour-Game</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://web-calculator-ak.netlify.com/">Web-Calculator</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://clock-ak.netlify.app/">Clock</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="http://car-moving-ak.netlify.app/">car-moving</a></li>
+                    </h4>
+            </ul>
+
+        </div>
+        <div class="block">
+            <h2>Interships assignments</h2>
+            <ul>
+                <h4>
+                    <li><a href="http://face-assignment.netlify.app/">Focus Academy Dashboard</a></li>
+                    </h3>
+                    <h4>
+                        <li><a href="https://vouch-digital-assignment.netlify.app/">Vouch digital dashboard</a></li>
+                    </h4>
+                    <h4>
+                        <li><a href="https://quadb1.netlify.app/">Crpyptic media assignment</a></li>
+                    </h4>
+            </ul>
+
+        </div>
+    </div>
+</body>
+
+</html>
